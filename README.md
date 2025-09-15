@@ -33,3 +33,6 @@ These three states together contribute nearly half of total sales, indicating st
 Amazon dominates (≈36%) of total sales.
 Myntra (≈24%) and Flipkart (≈22%) are secondary but important contributors.
 Ajio and other channels play smaller roles.
+
+<img width="304" height="251" alt="image" src="https://github.com/user-attachments/assets/ff3a6acf-8aa8-4e90-867a-5f7ad24ddfda" />
+
